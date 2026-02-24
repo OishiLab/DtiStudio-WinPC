@@ -37,7 +37,7 @@ Comput Methods Programs Biomed. 2006 Feb;81(2):106-16.  doi: 10.1016/j.cmpb.2005
 ## Instructions
 1. **Download vcredist_64.exe (or vcredist_86.exe, depending on your system) and DtiStudio.exe**<br>
 For general users, here is the link (https://www.mristudio.org)<br>
-   **for JHU-BME students:** get DtiStudio_64_Apr_2019.exe and sample data from ([https://forms.office.com/Pages/ShareFormPage.aspx?id=OPSkn-axO0eAP4b4rt8N7Iz6VabmlEBIhG4j3FiMk75URTdQUjlXUU9EWEhFVkU5T1pRR0VQRDUyTy4u&sharetoken=SeNgTqpbTm6SPaWCfcUL]). Put them under C: drive. <br>
+   **for JHU-BME students:** get DtiStudio_64_Apr_2019.exe and sample data from ([(https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=OPSkn-axO0eAP4b4rt8N7Iz6VabmlEBIhG4j3FiMk75URTdQUjlXUU9EWEhFVkU5T1pRR0VQRDUyTy4u]). Put them under C: drive. <br>
   
 2. **For the first time users, run vcredist_64.exe (or vcredist_86.exe, depending on your system). You can simply double-click the file.** <br>
 
