@@ -3,7 +3,8 @@
 
 The DtiStudio Software package is an application for MRI visualization, tensor calculation, and tractography developed for Microsoft Visual Studio. It is designed to run on Microsoft Windows operating systems.<br>
 
-**Author**: [Kenichi Oishi](https://www.hopkinsmedicine.org/profiles/details/kenichi-oishi) MD, PhD<br>
+**Authors**: [Susumu Mori, PhD, and Hangyi Jiang, PhD]
+**Contact**: [Kenichi Oishi](https://www.hopkinsmedicine.org/profiles/details/kenichi-oishi) MD, PhD<br>
 The Russell H. Morgan Department of Radiology and Radiological Science, The Johns Hopkins University School of Medicine, Baltimore, MD, USA <br>
 Department of Neurology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA <br>
 The Richman Family Precision Medicine Center of Excellence in Alzheimer's Disease, Johns Hopkins University School of Medicine, Baltimore, MD, USA<br>
